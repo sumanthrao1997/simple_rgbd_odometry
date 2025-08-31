@@ -1,2 +1,2 @@
 # simple_rgbd_odometry
-Source code to be released soon
+The code for this repo is realesed here, please checkout [https://github.com/PRBonn/Simple-RGBD-Odometry/](https://github.com/PRBonn/Simple-RGBD-Odometry/)
